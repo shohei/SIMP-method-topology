@@ -20,12 +20,3 @@ nu = 0.3 # Poisson's ratio
 ![](image/gen6.png)
 ![](image/gen7.png)
 ![](image/gen8.png)
-![](image/gen9.png)
-![](image/gen10.png)
-![](image/gen11.png)
-![](image/gen12.png)
-![](image/gen13.png)
-![](image/gen14.png)
-![](image/gen15.png)
-![](image/gen16.png)
-

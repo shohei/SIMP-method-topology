@@ -3,6 +3,8 @@
 ## Example
 Minimization of compliance (Maximization of ridigity)
 
+For the FEA, Lisa 8.0 is used.
+
 ### Parameters
 ```
 a = 0.375 # Target: V_final = a*V0

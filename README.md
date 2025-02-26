@@ -1,4 +1,5 @@
 # SIMP method (topology optimizatio)
+SIMP - Solid Isotropic Material with Penalty
 
 ## Example
 Minimization of compliance (Maximization of ridigity)

@@ -1,4 +1,4 @@
-# SIMP method (topology optimizatio)
+# SIMP method (topology optimization)
 SIMP - Solid Isotropic Material with Penalty
 
 ## Example
